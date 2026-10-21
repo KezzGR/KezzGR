@@ -1,11 +1,10 @@
-Nikita “Sweet0fouR”
+# Nikita “Sweet0fouR”
 
-C#/.NET developer building games, simulations, and interactive systems.
+C#/.NET and Rust developer building games, graphics, simulations, and interactive systems.
 
-MathGrapher — a desktop function plotter with a custom parser. I survived Shunting Yard and RPN to build it.
+- **[MathGrapher](https://github.com/KezzGR/math-grapher)** — a desktop function plotter with a custom parser. I survived Shunting Yard and RPN to build it.
+- **[Nyra](https://github.com/KezzGR/nyra)** — a 3D engine in Rust, because using an existing engine was apparently too peaceful.
 
-Wiremind — teaching simulated and ESP32-based devices to report their problems.
+Mostly `C#`, `.NET`, `Unity`, and `Rust`. Python appears when it has a job to do.
 
-Mostly C#, .NET, Unity, and Python. Occasionally Rust, when life feels too peaceful.
-
-Telegram
+[Telegram](https://t.me/krasnih)
